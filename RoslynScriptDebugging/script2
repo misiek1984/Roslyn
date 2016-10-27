@@ -1,0 +1,8 @@
+﻿System.Console.WriteLine("Hello World");
+var j = 0;
+System.Console.WriteLine(j);
+write 1
+i++;
+System.Console.WriteLine(j);
+write 2
+System.Console.WriteLine("End");

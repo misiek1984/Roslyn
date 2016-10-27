@@ -1,0 +1,8 @@
+﻿var i = 0;
+write a
+write 1
+i++;
+write 2
+i++;
+System.Console.WriteLine(i);
+write b
